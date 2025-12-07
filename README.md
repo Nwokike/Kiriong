@@ -1,10 +1,10 @@
-# Kiri.ng - Nigerian Artisan Marketplace & Learning Platform
+# Nigerian Artisan Marketplace & Learning Platform
 
-![Kiri.ng Logo](static/logo-light.png)
+![Kiriong Logo](static/logo-light.png)
 
-## 🚀 [Live Site](https://kiri.ng/)
+## 🚀 [Live Site](https://kiriong.onrender.com/)
 
-Kiri.ng is a comprehensive Django-based Progressive Web Application (PWA) connecting Nigerian artisans with customers. It features an innovative AI-powered learning academy, a community blog, and intelligent customer service to create a complete ecosystem for artisan growth.
+Kiriong is a comprehensive Django-based Progressive Web Application (PWA) connecting Nigerian artisans with customers. It features an innovative AI-powered learning academy, a community blog, and intelligent customer service to create a complete ecosystem for artisan growth.
 
 -----
 
@@ -22,7 +22,7 @@ Kiri.ng is a comprehensive Django-based Progressive Web Application (PWA) connec
 
 ## 🏗️ System Architecture
 
-Kiri.ng is built using a **Django Monolithic Architecture**, where each major feature is isolated into a modular Django app for a clear separation of concerns. This approach streamlines development and deployment for the current scale.
+Kiriong is built using a **Django Monolithic Architecture**, where each major feature is isolated into a modular Django app for a clear separation of concerns. This approach streamlines development and deployment for the current scale.
 
 ### Core Components
 
@@ -106,7 +106,7 @@ Visit **http://localhost:5000** in your browser.
 ## 🗂️ Complete Project Structure
 
 ```
-kiri.ng/
+kiriong/
 ├── .github/
 │   └── workflows/
 │       └── deploy.yml              # CI/CD pipeline for automated deployments
@@ -226,15 +226,3 @@ kiri.ng/
   * HTTPS is enforced in production environments.
 
 -----
-
-## 👨‍💻 Developer & Support
-
-  * **Nwokike Onyeka**
-  * **GitHub**: [@nwokike](https://github.com/nwokike)
-  * **Email**: nwokikeonyeka@gmail.com
-
-For support, use the **AI Support Chatbot** available 24/7 in the app or reach out via the contact form in the footer.
-
------
-
-**© 2025 Kiri.ng - Empowering Nigerian Artisans** 🇳🇬
