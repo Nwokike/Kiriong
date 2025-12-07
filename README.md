@@ -49,8 +49,8 @@ Kiriong is built using a **Django Monolithic Architecture**, where each major fe
 ### 1\. Clone & Install
 
 ```bash
-git clone https://github.com/nwokike/kiri.ng.git
-cd kiri.ng
+git clone https://github.com/nwokike/kiriong.git
+cd kiriong
 pip install -r requirements.txt
 ```
 
