@@ -1,8 +1,8 @@
-# Kiri.ng - Nigerian Artisan Marketplace & Learning Platform
+# Nigerian Artisan Marketplace & Learning Platform
 
 ## Overview
 
-Kiri.ng is a Django-based Progressive Web Application (PWA) that connects Nigerian artisans with customers while providing AI-powered learning pathways for skill development. The platform serves two primary user types: artisans offering services and customers seeking services or learning new trades.
+Kiriong is a Django-based Progressive Web Application (PWA) that connects Nigerian artisans with customers while providing AI-powered learning pathways for skill development. The platform serves two primary user types: artisans offering services and customers seeking services or learning new trades.
 
 The application combines a service marketplace, AI-powered educational academy, community blog, and comprehensive user management into a single cohesive platform optimized for the Nigerian market.
 
@@ -23,7 +23,7 @@ The application follows a **modular monolithic architecture** where major featur
 
 ### AI Integration Architecture
 
-**Google Gemini AI** (gemini-2.0-flash-exp model) powers multiple features:
+**Google Gemini AI** (gemini-2.5-flash model) powers multiple features:
 
 - **Learning Pathway Generation**: Creates personalized module outlines based on user goals, location, and skill category
 - **Dynamic Content Generation**: Produces detailed written educational content for each learning module on-demand
@@ -100,7 +100,7 @@ The application follows a **modular monolithic architecture** where major featur
 ## External Dependencies
 
 ### AI & APIs
-- **Google Gemini API** (gemini-2.0-flash-exp) - AI content generation, tutoring, and chatbot
+- **Google Gemini API** (gemini-2.5-flash) - AI content generation, tutoring, and chatbot
 - **YouTube Data API v3** - Fetches educational videos for learning modules
 
 ### Authentication & Security
